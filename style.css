@@ -11,7 +11,11 @@ body {
 }
 
 button {
-  font-size: 7px;
+  font-size: 9px;
+}
+
+button#sort {
+  font-size: 12px;
 }
 
 #main-content {
